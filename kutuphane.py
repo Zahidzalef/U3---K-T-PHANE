@@ -56,3 +56,30 @@ while True:
     input("Ana menüye dönmek için enter'a basınız...")
     os.system("cls")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
